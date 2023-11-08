@@ -1,17 +1,5 @@
 ## Instalação
 
-Clonar o repositório
-
-```bash
-  git clone https://github.com/brunomestanza/backend-1-node.git
-```
-
-Entrar na pasta do projeto
-
-```bash
-  cd backend-1-node
-```
-
 Instalar as depêndencias do projeto
 
 ```bash
